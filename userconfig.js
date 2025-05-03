@@ -288,4 +288,7 @@ const default_configuration = {
     },
   ],
 };
+const CONFIG = new Config(default_configuration, palette);
+
+
 
