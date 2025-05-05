@@ -1,5 +1,5 @@
 // User configuration for the startpage. Update the palette, location, and your preferred tabs, categories, and links.
-const palette = mocha;
+const palette = frappé;
 
 const default_configuration = {
   overrideStorage: true,
